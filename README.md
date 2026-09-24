@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/alvaro-luis-yalle-yalli-425b2162"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.upwork.com/freelancers/~01d7539a2f4ec94842"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white" /></a>
-  <a href="mailto:ayalle@arla-asociados.com"><img src="https://img.shields.io/badge/Email-0A66C2?style=flat&logo=minutemailer&logoColor=white" /></a>
+  <a href="mailto:alvaroyalle@yahoo.es"><img src="https://img.shields.io/badge/Email-6001D2?style=flat&logo=yahoo&logoColor=white" /></a>
 </p>
 
 ---
@@ -89,16 +89,11 @@ Selected consulting & staff-augmentation engagements across multi-cloud data pla
 
 > Plus 10+ additional engagements across telecom, banking, agribusiness, construction, and professional services.
 
-<!--
 ### 📌 Featured Projects
-Uncomment and fill in once the demo repos are public.
 
 | Project | Stack | Description |
 |---|---|---|
-| [repo-name](https://github.com/USER/repo-name) | BigQuery · Cloud Composer · Dataflow | ELT pipeline with governed, partitioned & clustered data models |
-| [repo-name](https://github.com/USER/repo-name) | Azure Data Factory · Databricks | Multi-source ETL with data quality checks |
-| [repo-name](https://github.com/USER/repo-name) | dbt · Airflow | Modular transformation layer with tests & documentation |
--->
+| [gcp-weather-elt-pipeline](https://github.com/ayalle2024/gcp-weather-elt-pipeline) | Cloud Workflows · Cloud Run · BigQuery · Cloud Storage | Workflow-orchestrated ELT with raw → std → trf layers, private OIDC-invoked service, least-privilege IAM, idempotent MERGE loads and 20 tests, all on the GCP free tier |
 
 ---
 
@@ -115,4 +110,4 @@ Uncomment and fill in once the demo repos are public.
 
 Open to freelance / contract data engineering work — pipelines, cloud migrations, data governance, and analytics platforms.
 
-📧 ayalle@arla-asociados.com · 💼 [LinkedIn](https://www.linkedin.com/in/alvaro-luis-yalle-yalli-425b2162) · 🌐 [Upwork](https://www.upwork.com/freelancers/~01d7539a2f4ec94842)
+📧 alvaroyalle@yahoo.es · 💼 [LinkedIn](https://www.linkedin.com/in/alvaro-luis-yalle-yalli-425b2162) · 🌐 [Upwork](https://www.upwork.com/freelancers/~01d7539a2f4ec94842)
