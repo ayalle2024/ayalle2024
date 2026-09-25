@@ -94,6 +94,7 @@ Selected consulting & staff-augmentation engagements across multi-cloud data pla
 | Project | Stack | Description |
 |---|---|---|
 | [gcp-weather-elt-pipeline](https://github.com/ayalle2024/gcp-weather-elt-pipeline) | Cloud Workflows · Cloud Run · BigQuery · Cloud Storage | Workflow-orchestrated ELT with raw → std → trf layers, private OIDC-invoked service, least-privilege IAM, idempotent MERGE loads and 20 tests, all on the GCP free tier |
+| [gcp-customer-segmentation-pipeline](https://github.com/ayalle2024/gcp-customer-segmentation-pipeline) | Cloud Workflows · Pub/Sub · Cloud Functions · BigQuery · Firestore | Event-driven customer segmentation: 3 Pub/Sub topics, 4 Cloud Functions, rule-based routing with idempotent MERGE, workflow that waits for the async leg, least-privilege IAM and 56 tests, all on the GCP free tier |
 
 ---
 
